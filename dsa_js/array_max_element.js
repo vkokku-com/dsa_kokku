@@ -7,5 +7,5 @@ function findMaxElement(arr) {
     }
     return maxElement;
 }
-const list = [7, 12, 9, 4, 11]
+const list = [7, 12, 9, 4, 11];
 console.log(findMaxElement(list));
